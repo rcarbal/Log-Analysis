@@ -1,0 +1,27 @@
+The output for the Log Analysis if the following text.
+
+# OUTPUT 1:
+
+The most popular articles off all time, are:
+        "candidate-is-jerk" - 338647 views
+        "bears-love-berries" - 253801 views
+        "bad-things-gone" - 170098 views
+        "goats-eat-googles" - 84906 views
+        "trouble-for-troubled" - 84810 views
+        "balloon-goons-doomed" - 84557 views
+        "so-many-bears" - 84504 views
+        "media-obsessed-with-bears" - 84383 views
+
+# OUTPUT 2:
+
+The most popular authors are:
+        Ursula La Multa - 507594 views
+        Rudolf von Treppenwitz - 423457 views
+        Anonymous Contributor - 170098 views
+        Markoff Chaney - 84557 views
+
+
+# OUTPUT 3:
+
+Days that had more than 1% erros:
+        July 17,2016 - 2.26% errors
