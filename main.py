@@ -17,4 +17,3 @@ if __name__ == '__main__':
     view = viewparser.View()
     model = modelparser.Model()
     start()
-

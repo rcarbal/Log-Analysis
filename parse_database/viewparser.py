@@ -16,7 +16,8 @@ class View:
                 continue
 
             pos = article[0].index('/', article[0].index('/') + 1)
-            print('\t"' + article[0][pos + 1:] + '" - {}'.format(article[2]) + " views")
+            print('\t"' + article[0][pos + 1:] + '" - {}'
+                  .format(article[2]) + " views")
 
     def show_get_most_popular_author(self, pop_authors):
         print("\nThe most popular authors are:")

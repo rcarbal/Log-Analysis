@@ -18,4 +18,3 @@ class Controller:
     def get_days_of_errors(self):
         error_days = self.model.get_day_with_errors()
         self.view.show_days_with_most_error(error_days)
-
