@@ -26,9 +26,9 @@ This project implements the MVC pattern, it is built using python 2.7 and uses t
 * Once your virtual environment is up use `vagrant ssh`.
 * Add the repo to the /vagrant directory in your environment.
 
-#### Setup the database
-* Download database from https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
-* add the files from above link to your project root.
+##Setup the database
+* Download database from: [https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip]
+* Add the files from above link to your project root.
 * Use the following commands to setup database files.
     * `psql -d news -f newsdata.sql`
 * To see the available tables ise the following command:
